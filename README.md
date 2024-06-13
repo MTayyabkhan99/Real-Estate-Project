@@ -32,12 +32,3 @@ Property Type: Users can select the type of property they are looking for, such 
 This functionality enhances usability by providing a customized search experience tailored to the user's preferences. It streamlines the process of finding the perfect property, making Dream Homes a user-friendly platform for real estate exploration.
 
 Explore the website to experience these features firsthand and discover the seamless integration of functionality and design.
-
-
-
-
-
-  
-
-- 
-
